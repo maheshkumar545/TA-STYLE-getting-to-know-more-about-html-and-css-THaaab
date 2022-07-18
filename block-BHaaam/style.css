@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+article{
+    margin-top: 40px;
+}
+.img-center{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    padding: 20px;
+}
+.about{
+    background-color: brown;
+}
+.service{
+    background-color: blueviolet;
+}
